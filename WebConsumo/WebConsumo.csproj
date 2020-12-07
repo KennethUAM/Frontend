@@ -175,6 +175,17 @@
     <Content Include="seguridad\Login.aspx" />
     <Content Include="Site.Master" />
     <Content Include="ViewSwitcher.ascx" />
+    <Content Include="Vista\actualizarIngredientes.aspx" />
+    <Content Include="Vista\agregarProducto.aspx" />
+    <Content Include="Vista\clientes.aspx" />
+    <Content Include="Vista\detalleProducto.aspx" />
+    <Content Include="Vista\eliminarCliente.aspx" />
+    <Content Include="Vista\eliminarProducto.aspx" />
+    <Content Include="Vista\eliminarUsuario.aspx" />
+    <Content Include="Vista\mesas.aspx" />
+    <Content Include="Vista\orden.aspx" />
+    <Content Include="Vista\tipoOrden.aspx" />
+    <Content Include="Vista\usuarios.aspx" />
     <Content Include="Web.config" />
     <Content Include="Bundle.config" />
     <Content Include="Site.Mobile.Master" />
@@ -240,10 +251,86 @@
     <Compile Include="ViewSwitcher.ascx.designer.cs">
       <DependentUpon>ViewSwitcher.ascx</DependentUpon>
     </Compile>
+    <Compile Include="Vista\actualizarIngredientes.aspx.cs">
+      <DependentUpon>actualizarIngredientes.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Vista\actualizarIngredientes.aspx.designer.cs">
+      <DependentUpon>actualizarIngredientes.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Vista\agregarProducto.aspx.cs">
+      <DependentUpon>agregarProducto.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Vista\agregarProducto.aspx.designer.cs">
+      <DependentUpon>agregarProducto.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Vista\clientes.aspx.cs">
+      <DependentUpon>clientes.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Vista\clientes.aspx.designer.cs">
+      <DependentUpon>clientes.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Vista\detalleProducto.aspx.cs">
+      <DependentUpon>detalleProducto.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Vista\detalleProducto.aspx.designer.cs">
+      <DependentUpon>detalleProducto.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Vista\eliminarCliente.aspx.cs">
+      <DependentUpon>eliminarCliente.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Vista\eliminarCliente.aspx.designer.cs">
+      <DependentUpon>eliminarCliente.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Vista\eliminarProducto.aspx.cs">
+      <DependentUpon>eliminarProducto.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Vista\eliminarProducto.aspx.designer.cs">
+      <DependentUpon>eliminarProducto.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Vista\eliminarUsuario.aspx.cs">
+      <DependentUpon>eliminarUsuario.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Vista\eliminarUsuario.aspx.designer.cs">
+      <DependentUpon>eliminarUsuario.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Vista\mesas.aspx.cs">
+      <DependentUpon>mesas.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Vista\mesas.aspx.designer.cs">
+      <DependentUpon>mesas.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Vista\orden.aspx.cs">
+      <DependentUpon>orden.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Vista\orden.aspx.designer.cs">
+      <DependentUpon>orden.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Vista\tipoOrden.aspx.cs">
+      <DependentUpon>tipoOrden.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Vista\tipoOrden.aspx.designer.cs">
+      <DependentUpon>tipoOrden.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Vista\usuarios.aspx.cs">
+      <DependentUpon>usuarios.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Vista\usuarios.aspx.designer.cs">
+      <DependentUpon>usuarios.aspx</DependentUpon>
+    </Compile>
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
-    <Folder Include="Vista\" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />

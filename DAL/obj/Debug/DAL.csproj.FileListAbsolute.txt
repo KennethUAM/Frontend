@@ -4,3 +4,9 @@ C:\Users\Kenneth\Desktop\WCF\WebConsumo\DAL\obj\Debug\DAL.csprojAssemblyReferenc
 C:\Users\Kenneth\Desktop\WCF\WebConsumo\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
 C:\Users\Kenneth\Desktop\WCF\WebConsumo\DAL\obj\Debug\DAL.dll
 C:\Users\Kenneth\Desktop\WCF\WebConsumo\DAL\obj\Debug\DAL.pdb
+D:\Users\Josue\Desktop\Proyecto 2 Progra 4\Frontend\DAL\bin\Debug\DAL.dll
+D:\Users\Josue\Desktop\Proyecto 2 Progra 4\Frontend\DAL\bin\Debug\DAL.pdb
+D:\Users\Josue\Desktop\Proyecto 2 Progra 4\Frontend\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+D:\Users\Josue\Desktop\Proyecto 2 Progra 4\Frontend\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\Users\Josue\Desktop\Proyecto 2 Progra 4\Frontend\DAL\obj\Debug\DAL.dll
+D:\Users\Josue\Desktop\Proyecto 2 Progra 4\Frontend\DAL\obj\Debug\DAL.pdb
