@@ -8,3 +8,13 @@ C:\Users\Kenneth\Desktop\WCF\WebConsumo\BLL\obj\Debug\BLL.csproj.CoreCompileInpu
 C:\Users\Kenneth\Desktop\WCF\WebConsumo\BLL\obj\Debug\BLL.csproj.CopyComplete
 C:\Users\Kenneth\Desktop\WCF\WebConsumo\BLL\obj\Debug\BLL.dll
 C:\Users\Kenneth\Desktop\WCF\WebConsumo\BLL\obj\Debug\BLL.pdb
+D:\Users\Josue\Desktop\Proyecto 2 Progra 4\Frontend\BLL\bin\Debug\BLL.dll.config
+D:\Users\Josue\Desktop\Proyecto 2 Progra 4\Frontend\BLL\bin\Debug\BLL.dll
+D:\Users\Josue\Desktop\Proyecto 2 Progra 4\Frontend\BLL\bin\Debug\BLL.pdb
+D:\Users\Josue\Desktop\Proyecto 2 Progra 4\Frontend\BLL\bin\Debug\DAL.dll
+D:\Users\Josue\Desktop\Proyecto 2 Progra 4\Frontend\BLL\bin\Debug\DAL.pdb
+D:\Users\Josue\Desktop\Proyecto 2 Progra 4\Frontend\BLL\obj\Debug\BLL.csprojAssemblyReference.cache
+D:\Users\Josue\Desktop\Proyecto 2 Progra 4\Frontend\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+D:\Users\Josue\Desktop\Proyecto 2 Progra 4\Frontend\BLL\obj\Debug\BLL.csproj.CopyComplete
+D:\Users\Josue\Desktop\Proyecto 2 Progra 4\Frontend\BLL\obj\Debug\BLL.dll
+D:\Users\Josue\Desktop\Proyecto 2 Progra 4\Frontend\BLL\obj\Debug\BLL.pdb
