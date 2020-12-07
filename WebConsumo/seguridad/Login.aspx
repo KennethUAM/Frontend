@@ -312,8 +312,8 @@
 
             <!-- Login Form -->
             <form runat="server">
-                <input type="text" id="txtUsuario" class="fadeIn second" name="login" placeholder="login" runat="server">
-                <input type="text" id="txtPass" class="fadeIn third" name="login" placeholder="password" runat="server">
+                <input type="text" id="txtUsuario" class="fadeIn second" name="login" placeholder="Login" runat="server">
+                <input type="text" id="txtPass" class="fadeIn third" name="login" placeholder="Password" runat="server">
             <%--    <input type="submit" class="fadeIn fourth" value="Log In">--%>
 
                 <asp:Button runat="server" class="fadeIn fourth" type="submit" Text="Ingresar" OnClick="Unnamed_Click"/>
