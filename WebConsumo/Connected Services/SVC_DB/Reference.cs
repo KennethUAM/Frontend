@@ -21,6 +21,12 @@ namespace WebConsumo.SVC_DB {
         [System.ServiceModel.OperationContractAttribute(Action="http://tempuri.org/IBD/Get_DT_Param", ReplyAction="http://tempuri.org/IBD/Get_DT_ParamResponse")]
         System.Threading.Tasks.Task<System.Data.DataTable> Get_DT_ParamAsync(System.Data.DataTable DT_Param);
         
+        [System.ServiceModel.OperationContractAttribute(Action="http://tempuri.org/IBD/Login", ReplyAction="http://tempuri.org/IBD/LoginResponse")]
+        string Login(string usuario, string password);
+        
+        [System.ServiceModel.OperationContractAttribute(Action="http://tempuri.org/IBD/Login", ReplyAction="http://tempuri.org/IBD/LoginResponse")]
+        System.Threading.Tasks.Task<string> LoginAsync(string usuario, string password);
+        
         [System.ServiceModel.OperationContractAttribute(Action="http://tempuri.org/IBD/ListarFiltrar", ReplyAction="http://tempuri.org/IBD/ListarFiltrarResponse")]
         System.Data.DataTable ListarFiltrar(string sNombreTabla, string sNombreSP, System.Data.DataTable DT_Param);
         
@@ -67,6 +73,14 @@ namespace WebConsumo.SVC_DB {
         
         public System.Threading.Tasks.Task<System.Data.DataTable> Get_DT_ParamAsync(System.Data.DataTable DT_Param) {
             return base.Channel.Get_DT_ParamAsync(DT_Param);
+        }
+        
+        public string Login(string usuario, string password) {
+            return base.Channel.Login(usuario, password);
+        }
+        
+        public System.Threading.Tasks.Task<string> LoginAsync(string usuario, string password) {
+            return base.Channel.LoginAsync(usuario, password);
         }
         
         public System.Data.DataTable ListarFiltrar(string sNombreTabla, string sNombreSP, System.Data.DataTable DT_Param) {

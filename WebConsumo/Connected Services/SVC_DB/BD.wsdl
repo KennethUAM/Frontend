@@ -13,6 +13,12 @@
   <wsdl:message name="IBD_Get_DT_Param_OutputMessage">
     <wsdl:part name="parameters" element="tns:Get_DT_ParamResponse" />
   </wsdl:message>
+  <wsdl:message name="IBD_Login_InputMessage">
+    <wsdl:part name="parameters" element="tns:Login" />
+  </wsdl:message>
+  <wsdl:message name="IBD_Login_OutputMessage">
+    <wsdl:part name="parameters" element="tns:LoginResponse" />
+  </wsdl:message>
   <wsdl:message name="IBD_ListarFiltrar_InputMessage">
     <wsdl:part name="parameters" element="tns:ListarFiltrar" />
   </wsdl:message>
@@ -30,6 +36,10 @@
       <wsdl:input wsaw:Action="http://tempuri.org/IBD/Get_DT_Param" message="tns:IBD_Get_DT_Param_InputMessage" />
       <wsdl:output wsaw:Action="http://tempuri.org/IBD/Get_DT_ParamResponse" message="tns:IBD_Get_DT_Param_OutputMessage" />
     </wsdl:operation>
+    <wsdl:operation name="Login">
+      <wsdl:input wsaw:Action="http://tempuri.org/IBD/Login" message="tns:IBD_Login_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IBD/LoginResponse" message="tns:IBD_Login_OutputMessage" />
+    </wsdl:operation>
     <wsdl:operation name="ListarFiltrar">
       <wsdl:input wsaw:Action="http://tempuri.org/IBD/ListarFiltrar" message="tns:IBD_ListarFiltrar_InputMessage" />
       <wsdl:output wsaw:Action="http://tempuri.org/IBD/ListarFiltrarResponse" message="tns:IBD_ListarFiltrar_OutputMessage" />
@@ -43,6 +53,15 @@
     <soap:binding transport="http://schemas.xmlsoap.org/soap/http" />
     <wsdl:operation name="Get_DT_Param">
       <soap:operation soapAction="http://tempuri.org/IBD/Get_DT_Param" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="Login">
+      <soap:operation soapAction="http://tempuri.org/IBD/Login" style="document" />
       <wsdl:input>
         <soap:body use="literal" />
       </wsdl:input>
