@@ -177,6 +177,7 @@
     <Content Include="ViewSwitcher.ascx" />
     <Content Include="Vista\actualizarIngredientes.aspx" />
     <Content Include="Vista\agregarProducto.aspx" />
+    <Content Include="Vista\clienteFrecuente.aspx" />
     <Content Include="Vista\clientes.aspx" />
     <Content Include="Vista\detalleProducto.aspx" />
     <Content Include="Vista\eliminarCliente.aspx" />
@@ -264,6 +265,13 @@
     </Compile>
     <Compile Include="Vista\agregarProducto.aspx.designer.cs">
       <DependentUpon>agregarProducto.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Vista\clienteFrecuente.aspx.cs">
+      <DependentUpon>clienteFrecuente.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Vista\clienteFrecuente.aspx.designer.cs">
+      <DependentUpon>clienteFrecuente.aspx</DependentUpon>
     </Compile>
     <Compile Include="Vista\clientes.aspx.cs">
       <DependentUpon>clientes.aspx</DependentUpon>
