@@ -27,6 +27,19 @@ namespace WebConsumo.Vista
 
         }
 
+        private void cargarDatos()
+        {
+
+            DataTable dt = obj_clientefrecuenteBLL.ListFilt_cliente(Filtro.Text.Trim());
+            grid_datos.DataSource = dt;
+            grid_datos.DataBind();
+        }
+
+
+
+
+
+
         protected void nuevo_Click(object sender, EventArgs e)
         {
             obj_clientefrecuenteDALL.Nombre = nombre.Text.Trim();
@@ -50,16 +63,33 @@ namespace WebConsumo.Vista
                 status.Text = string.Empty;
 
 
-               // GVDatos.DataBind();
+                cargarDatos();
 
             }
             else
             {
                 ScriptManager.RegisterClientScriptBlock(Page, typeof(Page), "ClientScript", "alert('" + @"SE PRESENTO UN ERROR A LA HORA DE GUARDAR LA INFORMACIÓN DIGITADA.\n\nDETALLE ERROR: [  " + resultado.Replace('"', ' ').Replace("'", "").Replace("\n", "").Replace("\r", " ") + " ]." + "')", true);
                 Filtro.Text = string.Empty;
-                //GVDatos.DataBind();
+                cargarDatos();
             }
 
+        }
+
+        protected void Eliminar_Click(object sender, EventArgs e)
+        {
+            String sResultado = obj_clientefrecuenteBLL.Eliminar_cliente(elimina.Text.Trim());
+            if (sResultado == string.Empty)
+            {
+                ScriptManager.RegisterClientScriptBlock(Page, typeof(Page), "ClientScript", "alert('" + @"Dato Eliminado Correctamente.\n\nVer en listado para certificar el borrado')", true);
+                filtrar.Text = string.Empty;
+                cargarDatos();
+            }
+            else
+            {
+                ScriptManager.RegisterClientScriptBlock(Page, typeof(Page), "ClientScript", "alert('" + @"SE PRESENTO UN ERROR A LA HORA DE ELIMINAR EL REGISTRO SELECCIONADO.\n\nDETALLE ERROR: [  " + sResultado.Replace('"', ' ').Replace("'", "").Replace("\n", "").Replace("\r", " ") + " ]." + "')", true);
+                filtrar.Text = string.Empty;
+                cargarDatos();
+            }
         }
     }
 }
