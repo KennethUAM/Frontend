@@ -15,10 +15,9 @@
             <thead>
                 <tr style="border: 1px;">
                     <th>Nombre</th>
-                    <th>descripcion</th>
-                    <th>precio</th>
-                    <th>categoria</th>
-                     <th>estado</th>
+                    <th>Descripcion</th>
+                    <th>Precio</th>
+                    <th>Categoria</th>
                     <th>Accion</th>
                 </tr>
             </thead>
@@ -39,7 +38,7 @@
                 <div class="modal-body">
                     <div class="row">
                         <div class="col-lg-6 col-12">
-                            <label>categoria</label>
+                            <label>Categoria</label>
                             <div class="form-group">
                                 <div class="input-group">
                                     <select class="form-control" id="lstSucursal" name="lstSucursal"></select>
@@ -56,7 +55,7 @@
                             </div>
                         </div>
                         <div class="col-lg-6 col-12">
-                            <label>descripcion</label>
+                            <label>Descripcion</label>
                             <div class="form-group">
                                 <div class="input-group">
                                     <input type="text" class="form-control" id="txtTelefono">
@@ -65,7 +64,7 @@
                         </div>
 
                         <div class="col-lg-6 col-12">
-                            <label>precio</label>
+                            <label>Precio</label>
                             <div class="form-group">
                                 <div class="input-group">
                                     <input type="text" class="form-control input-sm no-null" id="txtPass">
