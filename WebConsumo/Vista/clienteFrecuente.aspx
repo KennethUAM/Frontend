@@ -11,14 +11,24 @@
     <form id="form1" runat="server">
         <div>
                         <br />
+
+            <asp:GridView ID="grid_datos" runat="server"></asp:GridView>
+            <br /> 
+            <br />
+
             <asp:Label ID="Label8" runat="server" Text="Filtro"></asp:Label>
             <br />
             <asp:TextBox ID="Filtro" runat="server"></asp:TextBox>
+                        <br />
             <br />
+            
+                        <asp:Label ID="Label9" runat="server" Text="Introduzca el ID del cliente para eliminarlo"></asp:Label>
             
             <br />
             
             <br />
+            
+                        <asp:TextBox ID="elimina" runat="server"></asp:TextBox>
             
             <br />
             
@@ -80,7 +90,7 @@
             <asp:Button ID="nuevo" runat="server" Text="Agregar" OnClick="nuevo_Click" />
 
             
-            <asp:Button ID="Eliminar" runat="server" Text="Eliminar" />
+            <asp:Button ID="Eliminar" runat="server" Text="Eliminar" OnClick="Eliminar_Click" />
 
 
 
