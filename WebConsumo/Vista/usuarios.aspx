@@ -16,7 +16,9 @@
                 <tr style="border: 1px;">
                     <th>Nombre</th>
                     <th>Appelido</th>
-                    <th>Rol</th>
+                    <th>Perfil</th>
+                    <th>Usuario</th>
+                    <th>Password</th>
                     <th>Accion</th>
                 </tr>
             </thead>

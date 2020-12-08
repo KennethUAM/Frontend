@@ -119,6 +119,7 @@
     <Content Include="Content\bootstrap-theme.min.css" />
     <Content Include="Content\bootstrap.css" />
     <Content Include="Content\bootstrap.min.css" />
+    <Content Include="Content\Login\StyleSheetLogin.css" />
     <Content Include="Content\Site.css" />
     <Content Include="Default.aspx" />
     <Content Include="favicon.ico" />
@@ -183,6 +184,7 @@
     <Content Include="Vista\eliminarCliente.aspx" />
     <Content Include="Vista\eliminarProducto.aspx" />
     <Content Include="Vista\eliminarUsuario.aspx" />
+    <Content Include="Vista\Facturacion.aspx" />
     <Content Include="Vista\mesas.aspx" />
     <Content Include="Vista\orden.aspx" />
     <Content Include="Vista\tipoOrden.aspx" />
@@ -307,6 +309,13 @@
     </Compile>
     <Compile Include="Vista\eliminarUsuario.aspx.designer.cs">
       <DependentUpon>eliminarUsuario.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Vista\Facturacion.aspx.cs">
+      <DependentUpon>Facturacion.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Vista\Facturacion.aspx.designer.cs">
+      <DependentUpon>Facturacion.aspx</DependentUpon>
     </Compile>
     <Compile Include="Vista\mesas.aspx.cs">
       <DependentUpon>mesas.aspx</DependentUpon>
