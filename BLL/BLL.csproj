@@ -48,6 +48,7 @@
       <DesignTime>True</DesignTime>
       <DependentUpon>Reference.svcmap</DependentUpon>
     </Compile>
+    <Compile Include="MantenimientosCategoriaCliente_BLL\CatClienteBLL.cs" />
     <Compile Include="Mantenimientos_BLL\clienteFrecuenteBLL.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
