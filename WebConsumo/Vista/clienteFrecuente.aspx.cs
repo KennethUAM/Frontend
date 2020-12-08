@@ -90,3 +90,5 @@ namespace WebConsumo.Vista
         }
     }
 }
+
+// los cambios son de esta clase 
