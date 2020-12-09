@@ -37,9 +37,11 @@ namespace BLL.Mantenimientos_BLL
         public string Eliminar_cliente(string sFiltro)
         {
             dt = Cliente_WCF.Get_DT_Param(null);
-            dt.Rows.Add("@filtro", "1", sFiltro);
+            dt.Rows.Add("@ID", "1", sFiltro);
 
-            string sReultado = Cliente_WCF.Ins_Upd_Delete("EliminarCliente", "NORMAL", dt).ToString().Trim();
+            string sReultado = Cliente_WCF.Ins_Upd_Delete("borrarCliente", "NORMAL", dt).ToString().Trim();
+
+            // Se han realizado cambios en esta parte 
 
             if (string.IsNullOrEmpty(sReultado))
             {
