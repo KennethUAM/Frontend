@@ -22,3 +22,9 @@ D:\Users\Josue\Desktop\asdasdasdasdasd\Frontend\DAL\obj\Debug\DAL.csprojAssembly
 D:\Users\Josue\Desktop\asdasdasdasdasd\Frontend\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
 D:\Users\Josue\Desktop\asdasdasdasdasd\Frontend\DAL\obj\Debug\DAL.dll
 D:\Users\Josue\Desktop\asdasdasdasdasd\Frontend\DAL\obj\Debug\DAL.pdb
+D:\Users\Josue\Desktop\Nueva carpeta (2)\Frontend\DAL\bin\Debug\DAL.dll
+D:\Users\Josue\Desktop\Nueva carpeta (2)\Frontend\DAL\bin\Debug\DAL.pdb
+D:\Users\Josue\Desktop\Nueva carpeta (2)\Frontend\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+D:\Users\Josue\Desktop\Nueva carpeta (2)\Frontend\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\Users\Josue\Desktop\Nueva carpeta (2)\Frontend\DAL\obj\Debug\DAL.dll
+D:\Users\Josue\Desktop\Nueva carpeta (2)\Frontend\DAL\obj\Debug\DAL.pdb
