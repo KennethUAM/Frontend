@@ -1,7 +1,7 @@
 ﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site.master.cs" Inherits="WebConsumo.SiteMaster" %>
 
 <!DOCTYPE html>
-<%--asdasdasd--%>
+<%--sfsdfsdf--%>
 <html lang="es">
 <head runat="server">
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
