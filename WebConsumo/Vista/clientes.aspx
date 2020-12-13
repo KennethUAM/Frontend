@@ -1,7 +1,12 @@
 ﻿<%@ Page Title="" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="clientes.aspx.cs" Inherits="WebConsumo.Vista.clientes" %>
-<asp:Content ID="Content1" ContentPlaceHolderID="MainContent" runat="server">
 
-     <div class="row">
+<asp:Content ID="Content1" ContentPlaceHolderID="MainContent" runat="server">
+    <script type="text/javascript">
+        $(function () {
+            Cliente.init();
+        })
+    </script>
+    <div class="row">
         <div class="col-12">
             <div class="form-group pull-right">
                 <button class="btn btn-info" type="button" id="btnNuevo" data-toggle="modal" data-target="#ModalNuevo"><i class="fa fa-plus"></i>Nuevo </button>
@@ -43,7 +48,7 @@
                             <label>Nombre</label>
                             <div class="form-group">
                                 <div class="input-group">
-                                    <input type="text" class="form-control" id="txtNombre"> 
+                                    <input type="text" class="form-control" id="txtNombre">
                                 </div>
                             </div>
                         </div>
@@ -73,7 +78,7 @@
                                 </div>
                             </div>
                         </div>
-                         <div class="col-lg-6 col-12">
+                        <div class="col-lg-6 col-12">
                             <label>Direccion</label>
                             <div class="form-group">
                                 <div class="input-group">
@@ -81,7 +86,7 @@
                                 </div>
                             </div>
                         </div>
-                         <div class="col-lg-6 col-12">
+                        <div class="col-lg-6 col-12">
                             <label>Categoria</label>
                             <div class="form-group">
                                 <div class="input-group">
@@ -89,12 +94,11 @@
                                 </div>
                             </div>
                         </div>
-                         <div class="col-lg-6 col-12">
+                        <div class="col-lg-6 col-12">
                             <label>Estatus</label>
                             <div class="form-group">
-                                <div class="input-group">
-                                    <input type="text" class="form-control input-sm no-null" id="txtEstatus">
-                                </div>
+
+                                <input type="checkbox" class="form-control input-sm no-null" id="txtEstatus" name="txtEstatus">
                             </div>
                         </div>
                     </div>

@@ -24,6 +24,7 @@ namespace WebConsumo.Vista
 
         protected void Page_Load(object sender, EventArgs e)
         {
+            cargarDatos();
 
         }
 
@@ -31,8 +32,8 @@ namespace WebConsumo.Vista
 
         private void cargarDatos()
         {
-
-            DataTable dt = obj_clientefrecuenteBLL.ListFilt_cliente(Filtro.Text.Trim());
+            var datos = "1";
+            DataTable dt = obj_clientefrecuenteBLL.ListFilt_cliente(datos);
             grid_datos.DataSource = dt;
             grid_datos.DataBind();
         }

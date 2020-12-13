@@ -1,0 +1,245 @@
+﻿'iisexpress.exe' (CLR v4.0.30319: DefaultDomain): 'C:\Windows\Microsoft.Net\assembly\GAC_32\mscorlib\v4.0_4.0.0.0__b77a5c561934e089\mscorlib.dll' cargado. Se omitió la carga de símbolos. El módulo está optimizado y la opción del depurador 'Sólo mi código' está habilitada.
+'iisexpress.exe' (CLR v4.0.30319: DefaultDomain): 'C:\Windows\Microsoft.Net\assembly\GAC_32\System.Web\v4.0_4.0.0.0__b03f5f7f11d50a3a\System.Web.dll' cargado. Se omitió la carga de símbolos. El módulo está optimizado y la opción del depurador 'Sólo mi código' está habilitada.
+'iisexpress.exe' (CLR v4.0.30319: DefaultDomain): 'C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System\v4.0_4.0.0.0__b77a5c561934e089\System.dll' cargado. Se omitió la carga de símbolos. El módulo está optimizado y la opción del depurador 'Sólo mi código' está habilitada.
+'iisexpress.exe' (CLR v4.0.30319: DefaultDomain): 'C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System.Core\v4.0_4.0.0.0__b77a5c561934e089\System.Core.dll' cargado. Se omitió la carga de símbolos. El módulo está optimizado y la opción del depurador 'Sólo mi código' está habilitada.
+'iisexpress.exe' (CLR v4.0.30319: DefaultDomain): 'C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System.Web.ApplicationServices\v4.0_4.0.0.0__31bf3856ad364e35\System.Web.ApplicationServices.dll' cargado. Se omitió la carga de símbolos. El módulo está optimizado y la opción del depurador 'Sólo mi código' está habilitada.
+'iisexpress.exe' (CLR v4.0.30319: DefaultDomain): 'C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System.Configuration\v4.0_4.0.0.0__b03f5f7f11d50a3a\System.Configuration.dll' cargado. Se omitió la carga de símbolos. El módulo está optimizado y la opción del depurador 'Sólo mi código' está habilitada.
+'iisexpress.exe' (CLR v4.0.30319: DefaultDomain): 'C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System.Xml\v4.0_4.0.0.0__b77a5c561934e089\System.Xml.dll' cargado. Se omitió la carga de símbolos. El módulo está optimizado y la opción del depurador 'Sólo mi código' está habilitada.
+'iisexpress.exe' (CLR v4.0.30319: Domain 2): 'C:\Windows\Microsoft.Net\assembly\GAC_32\mscorlib\v4.0_4.0.0.0__b77a5c561934e089\mscorlib.dll' cargado. Se omitió la carga de símbolos. El módulo está optimizado y la opción del depurador 'Sólo mi código' está habilitada.
+'iisexpress.exe' (CLR v4.0.30319: /LM/W3SVC/2/ROOT-1-132520537084878896): 'C:\Windows\Microsoft.Net\assembly\GAC_32\System.Web\v4.0_4.0.0.0__b03f5f7f11d50a3a\System.Web.dll' cargado. Se omitió la carga de símbolos. El módulo está optimizado y la opción del depurador 'Sólo mi código' está habilitada.
+'iisexpress.exe' (CLR v4.0.30319: /LM/W3SVC/2/ROOT-1-132520537084878896): 'C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System\v4.0_4.0.0.0__b77a5c561934e089\System.dll' cargado. Se omitió la carga de símbolos. El módulo está optimizado y la opción del depurador 'Sólo mi código' está habilitada.
+'iisexpress.exe' (CLR v4.0.30319: /LM/W3SVC/2/ROOT-1-132520537084878896): 'C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System.Core\v4.0_4.0.0.0__b77a5c561934e089\System.Core.dll' cargado. Se omitió la carga de símbolos. El módulo está optimizado y la opción del depurador 'Sólo mi código' está habilitada.
+'iisexpress.exe' (CLR v4.0.30319: /LM/W3SVC/2/ROOT-1-132520537084878896): 'C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System.Web.ApplicationServices\v4.0_4.0.0.0__31bf3856ad364e35\System.Web.ApplicationServices.dll' cargado. Se omitió la carga de símbolos. El módulo está optimizado y la opción del depurador 'Sólo mi código' está habilitada.
+'iisexpress.exe' (CLR v4.0.30319: /LM/W3SVC/2/ROOT-1-132520537084878896): 'C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System.Configuration\v4.0_4.0.0.0__b03f5f7f11d50a3a\System.Configuration.dll' cargado. Se omitió la carga de símbolos. El módulo está optimizado y la opción del depurador 'Sólo mi código' está habilitada.
+'iisexpress.exe' (CLR v4.0.30319: /LM/W3SVC/2/ROOT-1-132520537084878896): 'C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System.Xml\v4.0_4.0.0.0__b77a5c561934e089\System.Xml.dll' cargado. Se omitió la carga de símbolos. El módulo está optimizado y la opción del depurador 'Sólo mi código' está habilitada.
+'iisexpress.exe' (CLR v4.0.30319: /LM/W3SVC/2/ROOT-1-132520537084878896): 'C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System.Runtime.Caching\v4.0_4.0.0.0__b03f5f7f11d50a3a\System.Runtime.Caching.dll' cargado. Se omitió la carga de símbolos. El módulo está optimizado y la opción del depurador 'Sólo mi código' está habilitada.
+'iisexpress.exe' (CLR v4.0.30319: DefaultDomain): 'C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System.Runtime.Caching\v4.0_4.0.0.0__b03f5f7f11d50a3a\System.Runtime.Caching.dll' cargado. Se omitió la carga de símbolos. El módulo está optimizado y la opción del depurador 'Sólo mi código' está habilitada.
+'iisexpress.exe' (CLR v4.0.30319: DefaultDomain): 'C:\Windows\Microsoft.Net\assembly\GAC_MSIL\mscorlib.resources\v4.0_4.0.0.0_es_b77a5c561934e089\mscorlib.resources.dll' cargado. El módulo se compiló sin símbolos.
+'iisexpress.exe' (CLR v4.0.30319: /LM/W3SVC/2/ROOT-1-132520537084878896): 'C:\Windows\Microsoft.Net\assembly\GAC_MSIL\Microsoft.Build.Utilities.v4.0\v4.0_4.0.0.0__b03f5f7f11d50a3a\Microsoft.Build.Utilities.v4.0.dll' cargado. Se omitió la carga de símbolos. El módulo está optimizado y la opción del depurador 'Sólo mi código' está habilitada.
+'iisexpress.exe' (CLR v4.0.30319: DefaultDomain): 'C:\Windows\Microsoft.Net\assembly\GAC_MSIL\Microsoft.Build.Utilities.v4.0\v4.0_4.0.0.0__b03f5f7f11d50a3a\Microsoft.Build.Utilities.v4.0.dll' cargado. Se omitió la carga de símbolos. El módulo está optimizado y la opción del depurador 'Sólo mi código' está habilitada.
+'iisexpress.exe' (CLR v4.0.30319: /LM/W3SVC/2/ROOT-1-132520537084878896): 'C:\Windows\Microsoft.Net\assembly\GAC_MSIL\Microsoft.JScript\v4.0_10.0.0.0__b03f5f7f11d50a3a\Microsoft.JScript.dll' cargado. Se omitió la carga de símbolos. El módulo está optimizado y la opción del depurador 'Sólo mi código' está habilitada.
+'iisexpress.exe' (CLR v4.0.30319: /LM/W3SVC/2/ROOT-1-132520537084878896): 'D:\TEMP\Temporary ASP.NET Files\vs\1e45464a\c7c1b40f\assembly\dl3\0a2434a0\fd402265_e3cdd601\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll' cargado. Se omitió la carga de símbolos. El módulo está optimizado y la opción del depurador 'Sólo mi código' está habilitada.
+'iisexpress.exe' (CLR v4.0.30319: /LM/W3SVC/2/ROOT-1-132520537084878896): 'C:\Windows\Microsoft.Net\assembly\GAC_MSIL\Microsoft.CSharp\v4.0_4.0.0.0__b03f5f7f11d50a3a\Microsoft.CSharp.dll' cargado. Se omitió la carga de símbolos. El módulo está optimizado y la opción del depurador 'Sólo mi código' está habilitada.
+'iisexpress.exe' (CLR v4.0.30319: /LM/W3SVC/2/ROOT-1-132520537084878896): 'C:\Windows\Microsoft.Net\assembly\GAC_32\System.Data\v4.0_4.0.0.0__b77a5c561934e089\System.Data.dll' cargado. Se omitió la carga de símbolos. El módulo está optimizado y la opción del depurador 'Sólo mi código' está habilitada.
+'iisexpress.exe' (CLR v4.0.30319: /LM/W3SVC/2/ROOT-1-132520537084878896): 'C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System.Web.Services\v4.0_4.0.0.0__b03f5f7f11d50a3a\System.Web.Services.dll' cargado. Se omitió la carga de símbolos. El módulo está optimizado y la opción del depurador 'Sólo mi código' está habilitada.
+'iisexpress.exe' (CLR v4.0.30319: /LM/W3SVC/2/ROOT-1-132520537084878896): 'C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System.Drawing\v4.0_4.0.0.0__b03f5f7f11d50a3a\System.Drawing.dll' cargado. Se omitió la carga de símbolos. El módulo está optimizado y la opción del depurador 'Sólo mi código' está habilitada.
+'iisexpress.exe' (CLR v4.0.30319: /LM/W3SVC/2/ROOT-1-132520537084878896): 'C:\Windows\Microsoft.Net\assembly\GAC_32\System.EnterpriseServices\v4.0_4.0.0.0__b03f5f7f11d50a3a\System.EnterpriseServices.dll' cargado. Se omitió la carga de símbolos. El módulo está optimizado y la opción del depurador 'Sólo mi código' está habilitada.
+'iisexpress.exe' (CLR v4.0.30319: /LM/W3SVC/2/ROOT-1-132520537084878896): 'C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System.IdentityModel\v4.0_4.0.0.0__b77a5c561934e089\System.IdentityModel.dll' cargado. Se omitió la carga de símbolos. El módulo está optimizado y la opción del depurador 'Sólo mi código' está habilitada.
+'iisexpress.exe' (CLR v4.0.30319: /LM/W3SVC/2/ROOT-1-132520537084878896): 'C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System.Runtime.Serialization\v4.0_4.0.0.0__b77a5c561934e089\System.Runtime.Serialization.dll' cargado. Se omitió la carga de símbolos. El módulo está optimizado y la opción del depurador 'Sólo mi código' está habilitada.
+'iisexpress.exe' (CLR v4.0.30319: /LM/W3SVC/2/ROOT-1-132520537084878896): 'C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System.ServiceModel\v4.0_4.0.0.0__b77a5c561934e089\System.ServiceModel.dll' cargado. Se omitió la carga de símbolos. El módulo está optimizado y la opción del depurador 'Sólo mi código' está habilitada.
+'iisexpress.exe' (CLR v4.0.30319: /LM/W3SVC/2/ROOT-1-132520537084878896): 'C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System.ServiceModel.Activation\v4.0_4.0.0.0__31bf3856ad364e35\System.ServiceModel.Activation.dll' cargado. Se omitió la carga de símbolos. El módulo está optimizado y la opción del depurador 'Sólo mi código' está habilitada.
+'iisexpress.exe' (CLR v4.0.30319: /LM/W3SVC/2/ROOT-1-132520537084878896): 'C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System.ServiceModel.Web\v4.0_4.0.0.0__31bf3856ad364e35\System.ServiceModel.Web.dll' cargado. Se omitió la carga de símbolos. El módulo está optimizado y la opción del depurador 'Sólo mi código' está habilitada.
+'iisexpress.exe' (CLR v4.0.30319: /LM/W3SVC/2/ROOT-1-132520537084878896): 'C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System.Activities\v4.0_4.0.0.0__31bf3856ad364e35\System.Activities.dll' cargado. Se omitió la carga de símbolos. El módulo está optimizado y la opción del depurador 'Sólo mi código' está habilitada.
+'iisexpress.exe' (CLR v4.0.30319: /LM/W3SVC/2/ROOT-1-132520537084878896): 'C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System.ServiceModel.Activities\v4.0_4.0.0.0__31bf3856ad364e35\System.ServiceModel.Activities.dll' cargado. Se omitió la carga de símbolos. El módulo está optimizado y la opción del depurador 'Sólo mi código' está habilitada.
+'iisexpress.exe' (CLR v4.0.30319: /LM/W3SVC/2/ROOT-1-132520537084878896): 'C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System.WorkflowServices\v4.0_4.0.0.0__31bf3856ad364e35\System.WorkflowServices.dll' cargado. Se omitió la carga de símbolos. El módulo está optimizado y la opción del depurador 'Sólo mi código' está habilitada.
+'iisexpress.exe' (CLR v4.0.30319: /LM/W3SVC/2/ROOT-1-132520537084878896): 'C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System.Web.Extensions\v4.0_4.0.0.0__31bf3856ad364e35\System.Web.Extensions.dll' cargado. Se omitió la carga de símbolos. El módulo está optimizado y la opción del depurador 'Sólo mi código' está habilitada.
+'iisexpress.exe' (CLR v4.0.30319: /LM/W3SVC/2/ROOT-1-132520537084878896): 'C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System.Data.DataSetExtensions\v4.0_4.0.0.0__b77a5c561934e089\System.Data.DataSetExtensions.dll' cargado. Se omitió la carga de símbolos. El módulo está optimizado y la opción del depurador 'Sólo mi código' está habilitada.
+'iisexpress.exe' (CLR v4.0.30319: /LM/W3SVC/2/ROOT-1-132520537084878896): 'C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System.Xml.Linq\v4.0_4.0.0.0__b77a5c561934e089\System.Xml.Linq.dll' cargado. Se omitió la carga de símbolos. El módulo está optimizado y la opción del depurador 'Sólo mi código' está habilitada.
+'iisexpress.exe' (CLR v4.0.30319: /LM/W3SVC/2/ROOT-1-132520537084878896): 'C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System.ComponentModel.DataAnnotations\v4.0_4.0.0.0__31bf3856ad364e35\System.ComponentModel.DataAnnotations.dll' cargado. Se omitió la carga de símbolos. El módulo está optimizado y la opción del depurador 'Sólo mi código' está habilitada.
+'iisexpress.exe' (CLR v4.0.30319: /LM/W3SVC/2/ROOT-1-132520537084878896): 'C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System.Web.DynamicData\v4.0_4.0.0.0__31bf3856ad364e35\System.Web.DynamicData.dll' cargado. Se omitió la carga de símbolos. El módulo está optimizado y la opción del depurador 'Sólo mi código' está habilitada.
+'iisexpress.exe' (CLR v4.0.30319: /LM/W3SVC/2/ROOT-1-132520537084878896): 'D:\TEMP\Temporary ASP.NET Files\vs\1e45464a\c7c1b40f\assembly\dl3\54e5a364\f0021165_e3cdd601\Antlr3.Runtime.dll' cargado. Se omitió la carga de símbolos. El módulo está optimizado y la opción del depurador 'Sólo mi código' está habilitada.
+'iisexpress.exe' (CLR v4.0.30319: /LM/W3SVC/2/ROOT-1-132520537084878896): 'D:\TEMP\Temporary ASP.NET Files\vs\1e45464a\c7c1b40f\assembly\dl3\87493d86\a48b1165_e3cdd601\AspNet.ScriptManager.bootstrap.dll' cargado. Se omitió la carga de símbolos. El módulo está optimizado y la opción del depurador 'Sólo mi código' está habilitada.
+'iisexpress.exe' (CLR v4.0.30319: /LM/W3SVC/2/ROOT-1-132520537084878896): 'D:\TEMP\Temporary ASP.NET Files\vs\1e45464a\c7c1b40f\assembly\dl3\75695303\bcd91165_e3cdd601\AspNet.ScriptManager.jQuery.dll' cargado. Se omitió la carga de símbolos. El módulo está optimizado y la opción del depurador 'Sólo mi código' está habilitada.
+'iisexpress.exe' (CLR v4.0.30319: /LM/W3SVC/2/ROOT-1-132520537084878896): 'D:\TEMP\Temporary ASP.NET Files\vs\1e45464a\c7c1b40f\assembly\dl3\66515ed2\a97addaa_a0ced601\BLL.dll' cargado. Símbolos cargados.
+'iisexpress.exe' (CLR v4.0.30319: /LM/W3SVC/2/ROOT-1-132520537084878896): 'D:\TEMP\Temporary ASP.NET Files\vs\1e45464a\c7c1b40f\assembly\dl3\c178754e\b813ed64_e3cdd601\DAL.dll' cargado. Símbolos cargados.
+'iisexpress.exe' (CLR v4.0.30319: /LM/W3SVC/2/ROOT-1-132520537084878896): 'D:\TEMP\Temporary ASP.NET Files\vs\1e45464a\c7c1b40f\assembly\dl3\2b5386e3\2deb1265_e3cdd601\Microsoft.AspNet.FriendlyUrls.dll' cargado. Se omitió la carga de símbolos. El módulo está optimizado y la opción del depurador 'Sólo mi código' está habilitada.
+'iisexpress.exe' (CLR v4.0.30319: /LM/W3SVC/2/ROOT-1-132520537084878896): 'D:\TEMP\Temporary ASP.NET Files\vs\1e45464a\c7c1b40f\assembly\dl3\835d22d5\42831565_e3cdd601\Microsoft.AspNet.Web.Optimization.WebForms.dll' cargado. Se omitió la carga de símbolos. El módulo está optimizado y la opción del depurador 'Sólo mi código' está habilitada.
+'iisexpress.exe' (CLR v4.0.30319: /LM/W3SVC/2/ROOT-1-132520537084878896): 'D:\TEMP\Temporary ASP.NET Files\vs\1e45464a\c7c1b40f\assembly\dl3\6dae0a99\3d371465_e3cdd601\Microsoft.ScriptManager.MSAjax.dll' cargado. Se omitió la carga de símbolos. El módulo está optimizado y la opción del depurador 'Sólo mi código' está habilitada.
+'iisexpress.exe' (CLR v4.0.30319: /LM/W3SVC/2/ROOT-1-132520537084878896): 'D:\TEMP\Temporary ASP.NET Files\vs\1e45464a\c7c1b40f\assembly\dl3\d09f59d7\f3e61465_e3cdd601\Microsoft.ScriptManager.WebForms.dll' cargado. Se omitió la carga de símbolos. El módulo está optimizado y la opción del depurador 'Sólo mi código' está habilitada.
+'iisexpress.exe' (CLR v4.0.30319: /LM/W3SVC/2/ROOT-1-132520537084878896): 'D:\TEMP\Temporary ASP.NET Files\vs\1e45464a\c7c1b40f\assembly\dl3\cefaab36\84fe8265_e3cdd601\Microsoft.Web.Infrastructure.dll' cargado. Se omitió la carga de símbolos. El módulo está optimizado y la opción del depurador 'Sólo mi código' está habilitada.
+'iisexpress.exe' (CLR v4.0.30319: /LM/W3SVC/2/ROOT-1-132520537084878896): 'D:\TEMP\Temporary ASP.NET Files\vs\1e45464a\c7c1b40f\assembly\dl3\f3eda3eb\fc3d8a65_e3cdd601\Newtonsoft.Json.dll' cargado. Se omitió la carga de símbolos. El módulo está optimizado y la opción del depurador 'Sólo mi código' está habilitada.
+'iisexpress.exe' (CLR v4.0.30319: /LM/W3SVC/2/ROOT-1-132520537084878896): 'D:\TEMP\Temporary ASP.NET Files\vs\1e45464a\c7c1b40f\assembly\dl3\949bc357\1a351565_e3cdd601\System.Web.Optimization.dll' cargado. Se omitió la carga de símbolos. El módulo está optimizado y la opción del depurador 'Sólo mi código' está habilitada.
+'iisexpress.exe' (CLR v4.0.30319: /LM/W3SVC/2/ROOT-1-132520537084878896): 'D:\TEMP\Temporary ASP.NET Files\vs\1e45464a\c7c1b40f\assembly\dl3\f83ebc0f\b37910f1_b9ced601\WebConsumo.dll' cargado. Símbolos cargados.
+'iisexpress.exe' (CLR v4.0.30319: /LM/W3SVC/2/ROOT-1-132520537084878896): 'D:\TEMP\Temporary ASP.NET Files\vs\1e45464a\c7c1b40f\assembly\dl3\432ac5fb\8af09265_e3cdd601\WebGrease.dll' cargado. Se omitió la carga de símbolos. El módulo está optimizado y la opción del depurador 'Sólo mi código' está habilitada.
+'iisexpress.exe' (CLR v4.0.30319: /LM/W3SVC/2/ROOT-1-132520537084878896): 'C:\Windows\Microsoft.Net\assembly\GAC_MSIL\Microsoft.VisualStudio.Web.PageInspector.Loader\v4.0_1.0.0.0__b03f5f7f11d50a3a\Microsoft.VisualStudio.Web.PageInspector.Loader.dll' cargado. Se omitió la carga de símbolos. El módulo está optimizado y la opción del depurador 'Sólo mi código' está habilitada.
+'iisexpress.exe' (CLR v4.0.30319: /LM/W3SVC/2/ROOT-1-132520537084878896): 'C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System.Xaml\v4.0_4.0.0.0__b77a5c561934e089\System.Xaml.dll' cargado. Se omitió la carga de símbolos. El módulo está optimizado y la opción del depurador 'Sólo mi código' está habilitada.
+'iisexpress.exe' (CLR v4.0.30319: /LM/W3SVC/2/ROOT-1-132520537084878896): 'C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\Common7\IDE\Extensions\Microsoft\Web Tools\Browser Link\Microsoft.WebTools.BrowserLink.Runtime.dll' cargado. Se omitió la carga de símbolos. El módulo está optimizado y la opción del depurador 'Sólo mi código' está habilitada.
+'iisexpress.exe' (CLR v4.0.30319: /LM/W3SVC/2/ROOT-1-132520537084878896): 'C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\Common7\IDE\Extensions\Microsoft\Web Tools\Browser Link\Microsoft.WebTools.BrowserLink.Tracing.dll' cargado. Se omitió la carga de símbolos. El módulo está optimizado y la opción del depurador 'Sólo mi código' está habilitada.
+'iisexpress.exe' (CLR v4.0.30319: /LM/W3SVC/2/ROOT-1-132520537084878896): 'C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System.Web.RegularExpressions\v4.0_4.0.0.0__b03f5f7f11d50a3a\System.Web.RegularExpressions.dll' cargado. Se omitió la carga de símbolos. El módulo está optimizado y la opción del depurador 'Sólo mi código' está habilitada.
+'iisexpress.exe' (CLR v4.0.30319: DefaultDomain): 'C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System.Web.RegularExpressions\v4.0_4.0.0.0__b03f5f7f11d50a3a\System.Web.RegularExpressions.dll' cargado. Se omitió la carga de símbolos. El módulo está optimizado y la opción del depurador 'Sólo mi código' está habilitada.
+'iisexpress.exe' (CLR v4.0.30319: /LM/W3SVC/2/ROOT-1-132520537084878896): 'C:\Windows\Microsoft.Net\assembly\GAC_32\System.EnterpriseServices\v4.0_4.0.0.0__b03f5f7f11d50a3a\System.EnterpriseServices.Wrapper.dll' cargado. Se omitió la carga de símbolos. El módulo está optimizado y la opción del depurador 'Sólo mi código' está habilitada.
+'iisexpress.exe' (CLR v4.0.30319: /LM/W3SVC/2/ROOT-1-132520537084878896): 'C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System.Data.Services.Design\v4.0_4.0.0.0__b77a5c561934e089\System.Data.Services.Design.dll' cargado. Se omitió la carga de símbolos. El módulo está optimizado y la opción del depurador 'Sólo mi código' está habilitada.
+'iisexpress.exe' (CLR v4.0.30319: /LM/W3SVC/2/ROOT-1-132520537084878896): 'C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System.resources\v4.0_4.0.0.0_es_b77a5c561934e089\System.resources.dll' cargado. El módulo se compiló sin símbolos.
+'iisexpress.exe' (CLR v4.0.30319: /LM/W3SVC/2/ROOT-1-132520537084878896): 'C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System.Runtime\v4.0_4.0.0.0__b03f5f7f11d50a3a\System.Runtime.dll' cargado. Se omitió la carga de símbolos. El módulo está optimizado y la opción del depurador 'Sólo mi código' está habilitada.
+'iisexpress.exe' (CLR v4.0.30319: /LM/W3SVC/2/ROOT-1-132520537084878896): 'D:\TEMP\Temporary ASP.NET Files\vs\1e45464a\c7c1b40f\App_global.asax.obrb80jj.dll' cargado. 
+'iisexpress.exe' (CLR v4.0.30319: /LM/W3SVC/2/ROOT-1-132520537084878896): 'C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System.Web.resources\v4.0_4.0.0.0_es_b03f5f7f11d50a3a\System.Web.resources.dll' cargado. El módulo se compiló sin símbolos.
+'iisexpress.exe' (CLR v4.0.30319: /LM/W3SVC/2/ROOT-1-132520537084878896): 'C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System.ServiceModel.Internals\v4.0_4.0.0.0__31bf3856ad364e35\System.ServiceModel.Internals.dll' cargado. Se omitió la carga de símbolos. El módulo está optimizado y la opción del depurador 'Sólo mi código' está habilitada.
+'iisexpress.exe' (CLR v4.0.30319: /LM/W3SVC/2/ROOT-1-132520537084878896): 'C:\Windows\Microsoft.Net\assembly\GAC_MSIL\mscorlib.resources\v4.0_4.0.0.0_es_b77a5c561934e089\mscorlib.resources.dll' cargado. El módulo se compiló sin símbolos.
+'iisexpress.exe' (CLR v4.0.30319: /LM/W3SVC/2/ROOT-1-132520537084878896): 'C:\Windows\Microsoft.Net\assembly\GAC_MSIL\SMDiagnostics\v4.0_4.0.0.0__b77a5c561934e089\SMDiagnostics.dll' cargado. Se omitió la carga de símbolos. El módulo está optimizado y la opción del depurador 'Sólo mi código' está habilitada.
+'iisexpress.exe' (CLR v4.0.30319: /LM/W3SVC/2/ROOT-1-132520537084878896): 'C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System.Web.Mobile\v4.0_4.0.0.0__b03f5f7f11d50a3a\System.Web.Mobile.dll' cargado. Se omitió la carga de símbolos. El módulo está optimizado y la opción del depurador 'Sólo mi código' está habilitada.
+'iisexpress.exe' (CLR v4.0.30319: /LM/W3SVC/2/ROOT-1-132520537084878896): 'A_b080da48_6e12_4ba6_a114_dc21c9e8518e' cargado. 
+'iisexpress.exe' (CLR v4.0.30319: /LM/W3SVC/2/ROOT-1-132520537084878896): 'C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System.Web.Entity\v4.0_4.0.0.0__b77a5c561934e089\System.Web.Entity.dll' cargado. Se omitió la carga de símbolos. El módulo está optimizado y la opción del depurador 'Sólo mi código' está habilitada.
+'iisexpress.exe' (CLR v4.0.30319: /LM/W3SVC/2/ROOT-1-132520537084878896): 'C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System.Design\v4.0_4.0.0.0__b03f5f7f11d50a3a\System.Design.dll' cargado. Se omitió la carga de símbolos. El módulo está optimizado y la opción del depurador 'Sólo mi código' está habilitada.
+'iisexpress.exe' (CLR v4.0.30319: DefaultDomain): 'C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System.Design\v4.0_4.0.0.0__b03f5f7f11d50a3a\System.Design.dll' cargado. Se omitió la carga de símbolos. El módulo está optimizado y la opción del depurador 'Sólo mi código' está habilitada.
+'iisexpress.exe' (CLR v4.0.30319: /LM/W3SVC/2/ROOT-1-132520537084878896): 'D:\TEMP\Temporary ASP.NET Files\vs\1e45464a\c7c1b40f\App_Web_rh00y0l1.dll' cargado. 
+'iisexpress.exe' (CLR v4.0.30319: DefaultDomain): 'C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System.Drawing\v4.0_4.0.0.0__b03f5f7f11d50a3a\System.Drawing.dll' cargado. Se omitió la carga de símbolos. El módulo está optimizado y la opción del depurador 'Sólo mi código' está habilitada.
+El subproceso 0x5fc8 terminó con código 0 (0x0).
+El subproceso 0x5d0c terminó con código 0 (0x0).
+El subproceso 0x1cc8 terminó con código 0 (0x0).
+El subproceso 0x8cc terminó con código 0 (0x0).
+El subproceso 0x1670 terminó con código 0 (0x0).
+'iisexpress.exe' (CLR v4.0.30319: /LM/W3SVC/2/ROOT-1-132520537084878896): 'C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System.ServiceModel.Channels\v4.0_4.0.0.0__31bf3856ad364e35\System.ServiceModel.Channels.dll' cargado. Se omitió la carga de símbolos. El módulo está optimizado y la opción del depurador 'Sólo mi código' está habilitada.
+'iisexpress.exe' (CLR v4.0.30319: /LM/W3SVC/2/ROOT-1-132520537084878896): 'C:\Windows\Microsoft.Net\assembly\GAC_MSIL\Microsoft.VisualStudio.Diagnostics.ServiceModelSink\v4.0_4.0.0.0__b03f5f7f11d50a3a\Microsoft.VisualStudio.Diagnostics.ServiceModelSink.dll' cargado. Se omitió la carga de símbolos. El módulo está optimizado y la opción del depurador 'Sólo mi código' está habilitada.
+'iisexpress.exe' (CLR v4.0.30319: /LM/W3SVC/2/ROOT-1-132520537084878896): 'C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System.Net.Http\v4.0_4.0.0.0__b03f5f7f11d50a3a\System.Net.Http.dll' cargado. Se omitió la carga de símbolos. El módulo está optimizado y la opción del depurador 'Sólo mi código' está habilitada.
+Excepción producida: 'System.Threading.ThreadAbortException' en mscorlib.dll
+'iisexpress.exe' (CLR v4.0.30319: /LM/W3SVC/2/ROOT-1-132520537084878896): 'C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System.Xaml.Hosting\v4.0_4.0.0.0__31bf3856ad364e35\System.Xaml.Hosting.dll' cargado. Se omitió la carga de símbolos. El módulo está optimizado y la opción del depurador 'Sólo mi código' está habilitada.
+'iisexpress.exe' (CLR v4.0.30319: /LM/W3SVC/2/ROOT-1-132520537084878896): 'D:\TEMP\Temporary ASP.NET Files\vs\1e45464a\c7c1b40f\App_Web_bjpzo4d5.dll' cargado. 
+'iisexpress.exe' (CLR v4.0.30319: /LM/W3SVC/2/ROOT-1-132520537084878896): 'D:\TEMP\Temporary ASP.NET Files\vs\1e45464a\c7c1b40f\App_Web_cgxzhhru.dll' cargado. 
+'iisexpress.exe' (CLR v4.0.30319: /LM/W3SVC/2/ROOT-1-132520537084878896): 'C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System.Web.Extensions.resources\v4.0_4.0.0.0_es_31bf3856ad364e35\System.Web.Extensions.resources.dll' cargado. El módulo se compiló sin símbolos.
+'iisexpress.exe' (CLR v4.0.30319: /LM/W3SVC/2/ROOT-1-132520537084878896): 'D:\TEMP\Temporary ASP.NET Files\vs\1e45464a\c7c1b40f\App_Web_gusabzn0.dll' cargado. 
+El subproceso 0x11ec terminó con código 0 (0x0).
+El subproceso 0x33bc terminó con código 0 (0x0).
+El subproceso 0x5fe0 terminó con código 0 (0x0).
+El subproceso 0x2ebc terminó con código 0 (0x0).
+'iisexpress.exe' (CLR v4.0.30319: /LM/W3SVC/2/ROOT-1-132520537084878896): 'D:\TEMP\Temporary ASP.NET Files\vs\1e45464a\c7c1b40f\App_Web_csnasybl.dll' cargado. 
+El subproceso 0x63a8 terminó con código 0 (0x0).
+El subproceso 0x63e0 terminó con código 0 (0x0).
+El subproceso 0x5590 terminó con código 0 (0x0).
+El subproceso 0x5c54 terminó con código 0 (0x0).
+El subproceso 0x4038 terminó con código 0 (0x0).
+El subproceso 0x131c terminó con código 0 (0x0).
+El subproceso 0x5888 terminó con código 0 (0x0).
+El subproceso 0x37ec terminó con código 0 (0x0).
+'iisexpress.exe' (CLR v4.0.30319: /LM/W3SVC/2/ROOT-1-132520537084878896): 'C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\Common7\IDE\PrivateAssemblies\Runtime\Microsoft.VisualStudio.Debugger.Runtime.Desktop.dll' cargado. Se omitió la carga de símbolos. El módulo está optimizado y la opción del depurador 'Sólo mi código' está habilitada.
+El subproceso 0x5444 terminó con código 0 (0x0).
+El subproceso 0x4d74 terminó con código 0 (0x0).
+El subproceso 0x1758 terminó con código 0 (0x0).
+El subproceso 0x5420 terminó con código 0 (0x0).
+El subproceso 0x38c terminó con código 0 (0x0).
+El subproceso 0x58e0 terminó con código 0 (0x0).
+El subproceso 0x3104 terminó con código 0 (0x0).
+El subproceso 0x355c terminó con código 0 (0x0).
+El subproceso 0xd90 terminó con código 0 (0x0).
+El subproceso 0x1558 terminó con código 0 (0x0).
+El subproceso 0x2860 terminó con código 0 (0x0).
+El subproceso 0x5a58 terminó con código 0 (0x0).
+El subproceso 0x1a9c terminó con código 0 (0x0).
+El subproceso 0x44dc terminó con código 0 (0x0).
+El subproceso 0x4734 terminó con código 0 (0x0).
+El subproceso 0xe8 terminó con código 0 (0x0).
+El subproceso 0xeb0 terminó con código 0 (0x0).
+El subproceso 0x6414 terminó con código 0 (0x0).
+El subproceso 0x614 terminó con código 0 (0x0).
+El subproceso 0x55e4 terminó con código 0 (0x0).
+El subproceso 0x5850 terminó con código 0 (0x0).
+El subproceso 0x692c terminó con código 0 (0x0).
+El subproceso 0x2004 terminó con código 0 (0x0).
+El subproceso 0x1b14 terminó con código 0 (0x0).
+El subproceso 0x66f4 terminó con código 0 (0x0).
+El subproceso 0x5c64 terminó con código 0 (0x0).
+El subproceso 0x6b08 terminó con código 0 (0x0).
+El subproceso 0x21ec terminó con código 0 (0x0).
+El subproceso 0x944 terminó con código 0 (0x0).
+El subproceso 0x6178 terminó con código 0 (0x0).
+El subproceso 0x68ec terminó con código 0 (0x0).
+El subproceso 0x312c terminó con código 0 (0x0).
+El subproceso 0x336c terminó con código 0 (0x0).
+El subproceso 0xdb0 terminó con código 0 (0x0).
+El subproceso 0x1f94 terminó con código 0 (0x0).
+El subproceso 0x288c terminó con código 0 (0x0).
+El subproceso 0x43bc terminó con código 0 (0x0).
+El subproceso 0x54a0 terminó con código 0 (0x0).
+El subproceso 0x69f0 terminó con código 0 (0x0).
+El subproceso 0x6b0c terminó con código 0 (0x0).
+El subproceso 0x59a0 terminó con código 0 (0x0).
+El subproceso 0x2154 terminó con código 0 (0x0).
+El subproceso 0x519c terminó con código 0 (0x0).
+El subproceso 0x68b8 terminó con código 0 (0x0).
+El subproceso 0x6dcc terminó con código 0 (0x0).
+El subproceso 0x5740 terminó con código 0 (0x0).
+El subproceso 0x42d8 terminó con código 0 (0x0).
+El subproceso 0x6604 terminó con código 0 (0x0).
+El subproceso 0x6cbc terminó con código 0 (0x0).
+El subproceso 0x6d84 terminó con código 0 (0x0).
+El subproceso 0x6c54 terminó con código 0 (0x0).
+El subproceso 0x2598 terminó con código 0 (0x0).
+El subproceso 0x6050 terminó con código 0 (0x0).
+El subproceso 0x6a10 terminó con código 0 (0x0).
+El subproceso 0x4b60 terminó con código 0 (0x0).
+El subproceso 0x5f60 terminó con código 0 (0x0).
+El subproceso 0x54d8 terminó con código 0 (0x0).
+El subproceso 0x64e8 terminó con código 0 (0x0).
+El subproceso 0x6ee8 terminó con código 0 (0x0).
+El subproceso 0x3258 terminó con código 0 (0x0).
+El subproceso 0x6ec0 terminó con código 0 (0x0).
+El subproceso 0x20c0 terminó con código 0 (0x0).
+El subproceso 0xc54 terminó con código 0 (0x0).
+El subproceso 0x6760 terminó con código 0 (0x0).
+El subproceso 0x489c terminó con código 0 (0x0).
+El subproceso 0x5d1c terminó con código 0 (0x0).
+El subproceso 0x657c terminó con código 0 (0x0).
+El subproceso 0x21a4 terminó con código 0 (0x0).
+El subproceso 0x21f8 terminó con código 0 (0x0).
+El subproceso 0x5348 terminó con código 0 (0x0).
+El subproceso 0x15ec terminó con código 0 (0x0).
+El subproceso 0x6724 terminó con código 0 (0x0).
+El subproceso 0x696c terminó con código 0 (0x0).
+El subproceso 0x62ec terminó con código 0 (0x0).
+El subproceso 0x20a4 terminó con código 0 (0x0).
+El subproceso 0x6bd0 terminó con código 0 (0x0).
+El subproceso 0x6d4c terminó con código 0 (0x0).
+El subproceso 0x4538 terminó con código 0 (0x0).
+El subproceso 0x6094 terminó con código 0 (0x0).
+El subproceso 0x59f0 terminó con código 0 (0x0).
+El subproceso 0x6eb8 terminó con código 0 (0x0).
+El subproceso 0x477c terminó con código 0 (0x0).
+El subproceso 0x6114 terminó con código 0 (0x0).
+El subproceso 0x42e8 terminó con código 0 (0x0).
+El subproceso 0x450c terminó con código 0 (0x0).
+El subproceso 0x6498 terminó con código 0 (0x0).
+El subproceso 0x4114 terminó con código 0 (0x0).
+El subproceso 0x68d8 terminó con código 0 (0x0).
+El subproceso 0x6edc terminó con código 0 (0x0).
+El subproceso 0x67a0 terminó con código 0 (0x0).
+El subproceso 0x1f04 terminó con código 0 (0x0).
+El subproceso 0x4aa0 terminó con código 0 (0x0).
+El subproceso 0x6d24 terminó con código 0 (0x0).
+El subproceso 0x4a64 terminó con código 0 (0x0).
+El subproceso 0x543c terminó con código 0 (0x0).
+El subproceso 0x60d4 terminó con código 0 (0x0).
+El subproceso 0x574 terminó con código 0 (0x0).
+El subproceso 0x6b84 terminó con código 0 (0x0).
+El subproceso 0x1cb0 terminó con código 0 (0x0).
+El subproceso 0x6d60 terminó con código 0 (0x0).
+El subproceso 0x5fbc terminó con código 0 (0x0).
+El subproceso 0x684c terminó con código 0 (0x0).
+El subproceso 0x13e0 terminó con código 0 (0x0).
+El subproceso 0x6b18 terminó con código 0 (0x0).
+El subproceso 0x2ee8 terminó con código 0 (0x0).
+El subproceso 0x30d8 terminó con código 0 (0x0).
+El subproceso 0x42fc terminó con código 0 (0x0).
+El subproceso 0x2d88 terminó con código 0 (0x0).
+El subproceso 0x4654 terminó con código 0 (0x0).
+El subproceso 0x6728 terminó con código 0 (0x0).
+El subproceso 0x5a78 terminó con código 0 (0x0).
+El subproceso 0x5580 terminó con código 0 (0x0).
+El subproceso 0x6f2c terminó con código 0 (0x0).
+El subproceso 0x38ec terminó con código 0 (0x0).
+El subproceso 0x5fcc terminó con código 0 (0x0).
+El subproceso 0x369c terminó con código 0 (0x0).
+El subproceso 0x4348 terminó con código 0 (0x0).
+'iisexpress.exe' (CLR v4.0.30319: /LM/W3SVC/2/ROOT-1-132520537084878896): 'D:\TEMP\Temporary ASP.NET Files\vs\1e45464a\c7c1b40f\App_Web_clek4ef0.dll' cargado. 
+El subproceso 0x4f9c terminó con código 0 (0x0).
+El subproceso 0x5edc terminó con código 0 (0x0).
+El subproceso 0x2eec terminó con código 0 (0x0).
+El subproceso 0x62f8 terminó con código 0 (0x0).
+El subproceso 0x6ca4 terminó con código 0 (0x0).
+El subproceso 0x7614 terminó con código 0 (0x0).
+El subproceso 0x7734 terminó con código 0 (0x0).
+El subproceso 0x77cc terminó con código 0 (0x0).
+El subproceso 0xe98 terminó con código 0 (0x0).
+El subproceso 0x2754 terminó con código 0 (0x0).
+El subproceso 0x5aec terminó con código 0 (0x0).
+El subproceso 0x5914 terminó con código 0 (0x0).
+El subproceso 0x6638 terminó con código 0 (0x0).
+El subproceso 0x5e08 terminó con código 0 (0x0).
+El subproceso 0x6fd4 terminó con código 0 (0x0).
+El subproceso 0x6210 terminó con código 0 (0x0).
+El subproceso 0x4160 terminó con código 0 (0x0).
+El subproceso 0x575c terminó con código 0 (0x0).
+El subproceso 0x6950 terminó con código 0 (0x0).
+El subproceso 0x5830 terminó con código 0 (0x0).
+El subproceso 0x714c terminó con código 0 (0x0).
+El subproceso 0x1600 terminó con código 0 (0x0).
+El subproceso 0x7370 terminó con código 0 (0x0).
+El programa '[9376] iisexpress.exe' terminó con código -1 (0xffffffff).
